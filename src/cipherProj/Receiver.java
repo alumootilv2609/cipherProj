@@ -1,6 +1,6 @@
 package cipherProj;
 
-public class Receiver {
+public class Receiver implements Encryptable {
 	private char[] m_Sbox;
 	private final int NUMROUNDS = 32;
 	private char[] m_key;

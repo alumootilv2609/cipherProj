@@ -23,15 +23,8 @@ public class TreyferTester {
 		char[] decrypted = receiverTest.decrypt(encrypted);
 		
 		for (char i: decrypted) {
-			
+			System.out.print(i +" ");
 		}
-			
-		
-			
-		
-		
-		
-		
 		
 		
 	}

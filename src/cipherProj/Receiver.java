@@ -65,10 +65,4 @@ public class Receiver {
 		return block;
 	}
 
-
-	@Override
-	public char[] encrypt(String str) {
-		// TODO Auto-generated method stub
-		return null;
-	}
 }

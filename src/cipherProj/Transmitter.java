@@ -2,7 +2,7 @@ package cipherProj;
 
 import java.util.Arrays;
 
-public class Transmitter {
+public class Transmitter implements Encryptable {
 	char[] m_Sbox;
 	private final int NUMROUNDS = 32;
 	char[] m_key;

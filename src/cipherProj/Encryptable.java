@@ -1,3 +1,5 @@
+package cipherProj;
+
 
 public interface Encryptable {
 	
